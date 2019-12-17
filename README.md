@@ -1,2 +1,2 @@
 # Character_Creation
-Графический интерфейс для создания персонажа и распределения очков для двух характеристик.
+A graphical interface for character creation and assigning points for two stats.
